@@ -1,3 +1,6 @@
 button {
   background-color: orange;
 }
+#photo-dale {
+  display: none; /* Dale cooper image will not show until laura image is clicked */
+}
